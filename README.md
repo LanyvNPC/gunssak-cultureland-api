@@ -2,4 +2,4 @@
 컬쳐랜드api 군싹 패치버전
 
 # THX
-- Leak BIT#6395
+- Leak by BIT#6395
