@@ -1,3 +1,1 @@
-# culture-api-gunssakPatch
-컬쳐랜드api 군싹 패치버전
-# DO NOT RESELL
+# DO NOT RESELL this shit
